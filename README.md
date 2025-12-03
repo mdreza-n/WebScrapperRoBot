@@ -1,4 +1,25 @@
-# WebScrapperRoBot
+### Ad
+
+🕷️ **Scrape Like a PRO – Without Ever Getting Blocked!**
+
+🔥 **80M+ Rotating Residential IPs**  
+🔥 **ZERO Captchas, ZERO Bans**  
+🔥 **195 Countries – Pinpoint Any City**  
+🔥 **Blazing-Fast Speeds & 99.97% Uptime**
+
+**LIMITED-TIME DEAL**  
+🎁 **10 FREE Proxies** + **10% OFF Your First Month**  
+(Just for you – no strings attached!)
+
+[**GRAB IT BEFORE IT’S GONE →**](https://www.webshare.io/?referral_code=u0ycd3q5pslh)
+
+Don’t let blocks kill your scraper ever again.  
+Join 64,000+ happy customers and start scraping like a beast today!
+
+---
+
+# WebscraperBot
+
 Simple , powerful and versatile web scraping tool designed to simplify the process of extracting data from websites. It features a user-friendly menu-driven interface and supports a wide range of data extraction options, including raw HTML, HTML elements, paragraphs, links, audios, and videos
 
 [![Visits](https://api.visitorbadge.io/api/visitors?path=[https://github.com/nuhmanpk/webscrapper](https://github.com/nuhmanpk/portfolio)&countColor=%23007EC6&label=Visits&style=flat-square&token=YOUR_API_TOKEN)](https://github.com/nuhmanpk/WebScrapper)
